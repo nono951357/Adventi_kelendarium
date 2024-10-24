@@ -176,19 +176,19 @@ body {
     grid-area: day1;
 }
 .day1 .back {
-    background: url(/kepek/1-beachhut.png);
+    background: url(./kepek/1-beachhut.png);
 }
 .day2 {
     grid-area: day2;
 }
 .day2 .back {
-    background: url(/kepek/2-openhouses.png);
+    background: url(./kepek/2-openhouses.png);
 }
 .day3 {
     grid-area: day3;
 }
 .day3 .back {
-    background: url(/kepek/3-choir.png);
+    background: url(./kepek/3-choir.png);
 }
 .day4 {
     grid-area: day4;
