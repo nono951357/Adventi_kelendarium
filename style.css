@@ -436,6 +436,16 @@ footer p {
 .dailyLink:hover {
     background-color: #2883af;
 }
+.modalContent img {
+    max-width: 100%;
+    height: auto;
+}
+
+.modalContent iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
 /* === MODAL CLOSE BUTTON (X) === */
 .close {
     color: #aaa;
